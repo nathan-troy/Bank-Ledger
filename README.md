@@ -3,4 +3,3 @@ ETL pipeline for a banking system, includes automated data integrity verificatio
 
 matplotlib, numpy, duckdb, pandas required
 
-Disclaimer: Docker implementation coming soon for improved usability + I will be making a new version which is more flexibile and can be used for data analysis projects
